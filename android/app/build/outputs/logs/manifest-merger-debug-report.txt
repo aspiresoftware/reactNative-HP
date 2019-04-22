@@ -1,0 +1,601 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.react:react-native:0.59.4] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/db73c67d1848008772246c8277d6c994/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/087575638b84b187ad034e6a80eb611f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/e03e650c88d0a2b47ffea7bdbcebf68e/AndroidManifest.xml:17:1-37:12
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/d74230c8b0ece76ce03698cde2be6ce6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/a5f2369a0f0a432c46be89b71be7dd3d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/069652d52c25506205a41a966b3b4a80/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/a097d155a8379c40df791ae9243ee06b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c3d3a7481fdfbd65bac26027b1cf1e3b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/2e7b7a74d8e6728afddd699de7316ca5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/5d54ca3d860d75df8ece31d80f3726da/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/fc78dd5f190797eac6da56322d94799d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/03adb0c0a692dfd1f8506754bbaf6e26/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/7fd3dddabb3ba7af3a179e41427d33d4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8d6d65ab180685f2ec73cc196ffa4a58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/72852e0b7f18597a01dd8394a26d81be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4dd2900fcfd9f608ccd0cf1fd486b318/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e1e15c917a28232c5cad13cf4bb0980e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/38e2e1ecbddc1b0eb9afff51dfeb80ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3cdd3c222e36227aff076fc1a29fcdae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9935acc235c10423374276eb18734689/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a54f4c8b193f5031d2d8082bcd7d7b27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/844c615ff3a97b9f4b377dbecf35ee3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e22396d10d9c87c10576bc9f1b893ec5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2b147404ce7833eb5899c74b7a6e86f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d4a45dfbd1f93ae975c98d18332e74ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/731d0c4c2fdbaab94033adfc0f8b3c07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/27d171503317dfb42cf4804bf8da2df7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/de8ff87b8cd77015a36a25e07d05e068/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0a1bf9fc2cea0369c7a81d0cd9e8e335/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3c3e185fd20ad7ac41d235828b76468/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de93f73e9818bd3bc17c5e11e91c71a7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e22d294cba8c151c3bee080c7f6de297/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b74d37acb0355ec1aac13bb86f274d47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/66cacdea9df56f91df3552e6f99b87b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c7bf4d7daa8813308a87f962a1473607/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/26aae37c174a14d653ead1e7a5bf5885/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/55227bc4d908dc7258cc09f74a043f9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e0c66ec1607b3837c23a6e49e5747ab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/753c1a044343848e74f8e0ec8871f21a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cb04f13d213e7971ba070b2146d99803/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bad46055313caa16906545ec05808087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3a6e0277bb0402bffe378185cbfe261d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/51d6c869555d0b9d650dce3f76135eaa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ebc85193c27fe95cdd87919ed7fea87e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/430c2c199c3af5ccb90819d50d80a62c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f76ca7e15de5b14e0f5c3b714af55a94/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a70a578a7c5b55c5a58354e97a445535/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fd08e2d1c5fa5bafcdc6ac384fd7c24a/AndroidManifest.xml:2:1-9:12
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:7:5-32:19
+MERGED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:7:5-32:19
+MERGED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:7:5-32:19
+MERGED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [com.facebook.react:react-native:0.59.4] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/db73c67d1848008772246c8277d6c994/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.4] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/db73c67d1848008772246c8277d6c994/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/e03e650c88d0a2b47ffea7bdbcebf68e/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/e03e650c88d0a2b47ffea7bdbcebf68e/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/d74230c8b0ece76ce03698cde2be6ce6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/d74230c8b0ece76ce03698cde2be6ce6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/a5f2369a0f0a432c46be89b71be7dd3d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/a5f2369a0f0a432c46be89b71be7dd3d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/069652d52c25506205a41a966b3b4a80/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/069652d52c25506205a41a966b3b4a80/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/a097d155a8379c40df791ae9243ee06b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/a097d155a8379c40df791ae9243ee06b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c3d3a7481fdfbd65bac26027b1cf1e3b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c3d3a7481fdfbd65bac26027b1cf1e3b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/2e7b7a74d8e6728afddd699de7316ca5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/2e7b7a74d8e6728afddd699de7316ca5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/5d54ca3d860d75df8ece31d80f3726da/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/5d54ca3d860d75df8ece31d80f3726da/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/fc78dd5f190797eac6da56322d94799d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/fc78dd5f190797eac6da56322d94799d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/03adb0c0a692dfd1f8506754bbaf6e26/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/03adb0c0a692dfd1f8506754bbaf6e26/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/7fd3dddabb3ba7af3a179e41427d33d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/7fd3dddabb3ba7af3a179e41427d33d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3c3e185fd20ad7ac41d235828b76468/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3c3e185fd20ad7ac41d235828b76468/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de93f73e9818bd3bc17c5e11e91c71a7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de93f73e9818bd3bc17c5e11e91c71a7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a70a578a7c5b55c5a58354e97a445535/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a70a578a7c5b55c5a58354e97a445535/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3c3e185fd20ad7ac41d235828b76468/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:9:7-39
+	tools:ignore
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:11:7-52
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:11:7-52
+	tools:targetApi
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:12:7-34
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:8:7-38
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:14:7-18:17
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:14:16-89
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:15:9-17:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:16:11-72
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:16:19-69
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:19:7-102
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:19:16-99
+activity#com.reactnativeseed.MainActivity
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:20:7-30:18
+	android:label
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:25:9-51
+	android:configChanges
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:24:9-79
+	android:theme
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:26:10-29:25
+action#android.intent.action.MAIN
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:27:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:28:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:31:7-84
+	android:name
+		ADDED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml:31:17-81
+uses-sdk
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.react:react-native:0.59.4] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/db73c67d1848008772246c8277d6c994/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.4] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/db73c67d1848008772246c8277d6c994/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/087575638b84b187ad034e6a80eb611f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/087575638b84b187ad034e6a80eb611f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/e03e650c88d0a2b47ffea7bdbcebf68e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.5.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/e03e650c88d0a2b47ffea7bdbcebf68e/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/d74230c8b0ece76ce03698cde2be6ce6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.8] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.8.aar/d74230c8b0ece76ce03698cde2be6ce6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/a5f2369a0f0a432c46be89b71be7dd3d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.4.0.aar/a5f2369a0f0a432c46be89b71be7dd3d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/069652d52c25506205a41a966b3b4a80/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/069652d52c25506205a41a966b3b4a80/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/a097d155a8379c40df791ae9243ee06b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/a097d155a8379c40df791ae9243ee06b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c3d3a7481fdfbd65bac26027b1cf1e3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/c3d3a7481fdfbd65bac26027b1cf1e3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/2e7b7a74d8e6728afddd699de7316ca5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-16.4.0.aar/2e7b7a74d8e6728afddd699de7316ca5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/5d54ca3d860d75df8ece31d80f3726da/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/5d54ca3d860d75df8ece31d80f3726da/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/fc78dd5f190797eac6da56322d94799d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.4.0.aar/fc78dd5f190797eac6da56322d94799d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/03adb0c0a692dfd1f8506754bbaf6e26/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/03adb0c0a692dfd1f8506754bbaf6e26/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/7fd3dddabb3ba7af3a179e41427d33d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/7fd3dddabb3ba7af3a179e41427d33d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8d6d65ab180685f2ec73cc196ffa4a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8d6d65ab180685f2ec73cc196ffa4a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/72852e0b7f18597a01dd8394a26d81be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/72852e0b7f18597a01dd8394a26d81be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4dd2900fcfd9f608ccd0cf1fd486b318/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4dd2900fcfd9f608ccd0cf1fd486b318/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e1e15c917a28232c5cad13cf4bb0980e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e1e15c917a28232c5cad13cf4bb0980e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/38e2e1ecbddc1b0eb9afff51dfeb80ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/38e2e1ecbddc1b0eb9afff51dfeb80ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3cdd3c222e36227aff076fc1a29fcdae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/3cdd3c222e36227aff076fc1a29fcdae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9935acc235c10423374276eb18734689/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9935acc235c10423374276eb18734689/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a54f4c8b193f5031d2d8082bcd7d7b27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a54f4c8b193f5031d2d8082bcd7d7b27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/844c615ff3a97b9f4b377dbecf35ee3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/844c615ff3a97b9f4b377dbecf35ee3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e22396d10d9c87c10576bc9f1b893ec5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/e22396d10d9c87c10576bc9f1b893ec5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2b147404ce7833eb5899c74b7a6e86f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2b147404ce7833eb5899c74b7a6e86f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d4a45dfbd1f93ae975c98d18332e74ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d4a45dfbd1f93ae975c98d18332e74ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/731d0c4c2fdbaab94033adfc0f8b3c07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/731d0c4c2fdbaab94033adfc0f8b3c07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/27d171503317dfb42cf4804bf8da2df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/27d171503317dfb42cf4804bf8da2df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/de8ff87b8cd77015a36a25e07d05e068/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/de8ff87b8cd77015a36a25e07d05e068/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0a1bf9fc2cea0369c7a81d0cd9e8e335/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0a1bf9fc2cea0369c7a81d0cd9e8e335/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3c3e185fd20ad7ac41d235828b76468/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c3c3e185fd20ad7ac41d235828b76468/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de93f73e9818bd3bc17c5e11e91c71a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/de93f73e9818bd3bc17c5e11e91c71a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e22d294cba8c151c3bee080c7f6de297/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e22d294cba8c151c3bee080c7f6de297/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b74d37acb0355ec1aac13bb86f274d47/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b74d37acb0355ec1aac13bb86f274d47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/66cacdea9df56f91df3552e6f99b87b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/66cacdea9df56f91df3552e6f99b87b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c7bf4d7daa8813308a87f962a1473607/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c7bf4d7daa8813308a87f962a1473607/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/26aae37c174a14d653ead1e7a5bf5885/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/26aae37c174a14d653ead1e7a5bf5885/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/55227bc4d908dc7258cc09f74a043f9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/55227bc4d908dc7258cc09f74a043f9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e0c66ec1607b3837c23a6e49e5747ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3e0c66ec1607b3837c23a6e49e5747ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/753c1a044343848e74f8e0ec8871f21a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/753c1a044343848e74f8e0ec8871f21a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cb04f13d213e7971ba070b2146d99803/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cb04f13d213e7971ba070b2146d99803/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bad46055313caa16906545ec05808087/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bad46055313caa16906545ec05808087/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3a6e0277bb0402bffe378185cbfe261d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3a6e0277bb0402bffe378185cbfe261d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/51d6c869555d0b9d650dce3f76135eaa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/51d6c869555d0b9d650dce3f76135eaa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ebc85193c27fe95cdd87919ed7fea87e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ebc85193c27fe95cdd87919ed7fea87e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/430c2c199c3af5ccb90819d50d80a62c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/430c2c199c3af5ccb90819d50d80a62c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f76ca7e15de5b14e0f5c3b714af55a94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f76ca7e15de5b14e0f5c3b714af55a94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a70a578a7c5b55c5a58354e97a445535/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a70a578a7c5b55c5a58354e97a445535/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fd08e2d1c5fa5bafcdc6ac384fd7c24a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/fd08e2d1c5fa5bafcdc6ac384fd7c24a/AndroidManifest.xml:5:5-7:41
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml
+INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/hardikpatel/E/Training/ReactNativeSeed/android/app/src/debug/AndroidManifest.xml
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.4.0.aar/7fed08c92cca4903c8a816ef6e957e68/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /media/hardikpatel/E/Training/ReactNativeSeed/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:22-76
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.5.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/e03e650c88d0a2b47ffea7bdbcebf68e/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.5.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/e03e650c88d0a2b47ffea7bdbcebf68e/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.5.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.5.0.aar/e03e650c88d0a2b47ffea7bdbcebf68e/AndroidManifest.xml:29:13-82
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/e57af502518e0ae1ff5e2c1d01a9997b/AndroidManifest.xml:50:22-86
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.1.aar/4d8aae6875cf6ff3c51a852747227dcb/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.1.0.aar/0a31b46a071a12b61fde356553e6034a/AndroidManifest.xml:23:22-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.4.0.aar/5609e7fc314bb45e1a953410b18efde2/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.1] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.1.1.aar/9d8ab8905ba518028559828966579443/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-base-16.1.0.aar/534e61263dc98beddb9d15408ecc5736/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/firebase-common-16.1.0.aar/f70c481343eb44be44fcbeea807094c2/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-impl-16.4.0.aar/a756b4c6c3e624566934c2c2d6b1f5fb/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.4.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-measurement-16.4.0.aar/c03fef0883204920db6bb7cbbda475e8/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/7fd3dddabb3ba7af3a179e41427d33d4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/7fd3dddabb3ba7af3a179e41427d33d4/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/hardikpatel/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.2.0.aar/7fd3dddabb3ba7af3a179e41427d33d4/AndroidManifest.xml:24:13-58

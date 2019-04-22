@@ -1,0 +1,4 @@
+#Wed Apr 17 17:42:12 IST 2019
+base.0=/media/hardikpatel/E/Training/ReactNativeSeed/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
